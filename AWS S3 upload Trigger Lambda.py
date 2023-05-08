@@ -1,4 +1,4 @@
-mport json
+import json
 import boto3
 import urllib
 # import logging

@@ -1,0 +1,1 @@
+[{"_id": {"$oid": "5bbfd5d9dc6546158c8e85c2"}, "title": "Marketing Specialist03", "level": "Mid-Level", "jobType": "Part-time", "publishedDate": {"$date": "2020-11-27T00:00:00Z"}, "deadline": {"$date": "2021-09-23T00:47:51.343Z"}, "effictivePeriod": 300, "jobRequiredDegree": "本科以上", "country": "", "city": ["Melbourne"], "categories_list": ["digital-marketing"]}]

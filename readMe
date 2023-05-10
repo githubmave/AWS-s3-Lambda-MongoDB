@@ -6,4 +6,4 @@ uploading would trigger Lambda to
 
 read the added file and print it to cloudwatch log
 
-![](images/Figure1.png)
+![](images / Figure1.png)

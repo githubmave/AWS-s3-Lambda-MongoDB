@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../../11-Nov13-s3-TRIG-Lambda-to-DynamoDB-CloudformationLab-TerminalServeless-Muchao/my-data-pipeline"
+		},
+		{
+			"path": "../../../11-Nov13-s3-TRIG-Lambda-to-DynamoDB-CloudformationLab-TerminalServeless-Muchao/Load-2-Dynamo"
 		}
 	],
 	"settings": {}

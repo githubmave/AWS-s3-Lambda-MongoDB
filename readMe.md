@@ -10,14 +10,14 @@ But the following is the ### phase one:
      
      
 
-Setup:
+## Setup:
 
     Preruquisite:  setup IAM role with AWS S3 full access policy and AWS LambdabasicExecutionCloudWatchRole
     
     
     => Log in with IAM role, follow the steps below:
     
-Step one: 
+## Step one: 
      . Setup Lambda named s3LambdaFunc02 with permission of AWS S3 ReadOnly access
      . Set runtimes as Python 3.8
      . Copy and paste AWS S3 upload trigger lambda.py to code area

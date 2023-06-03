@@ -23,6 +23,7 @@ Step one:
      . Copy and paste AWS S3 upload trigger lambda.py to code area
      
      ![](images/Figure1.png)
+     <img src="images/Figure1.png")>
      
      
 

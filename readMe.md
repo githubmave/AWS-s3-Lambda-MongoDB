@@ -22,7 +22,7 @@ Step one:
      . Set runtimes as Python 3.8
      . Copy and paste AWS S3 upload trigger lambda.py to code area
      
-     ![](images / Figure1.png)
+     ![](images/Figure1.png)
      
      
 

@@ -1,9 +1,9 @@
 
 ## Purpose:
-##### When AWS S3 has new files, would trigger Lambda to read and copy it to another S3 bucket 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When AWS S3 has new files, would trigger Lambda to read and copy it to another S3 bucket 
 
  
-##### print the jobTest02.json to CloudWatchLog when this jobTest02.json is uploaded into AWS S3 jobbuck bucket.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; print the jobTest02.json to CloudWatchLog when this jobTest02.json is uploaded into AWS S3 jobbuck bucket.
   
     The jobTest02.json is as the following:
       

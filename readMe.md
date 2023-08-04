@@ -34,8 +34,7 @@
 
 
 ## Set up Lambda function and deploy it 
-![image](https://github.com/githubmave/PipeLine-AWS-s3-Upload-Trigger-Lambda/assets/8073738/68fe3477-c3c2-4281-
-9916-9619a122fce1)
+![image](https://github.com/githubmave/PipeLine-AWS-s3-Upload-Trigger-Lambda/assets/8073738/a154775f-8fa1-4fa5-af75-c9d460e5b962)
 
 
 ## Go to S3 bucket 

@@ -1,7 +1,7 @@
 
 ## Purpose:
 + ##### &nbsp;&nbsp;&nbsp;&nbsp;  The following is:  &nbsp;&nbsp;&nbsp;&nbsp;  Map for this cloud-base ETL Pipeline architect
-  ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  
+  ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 
 This pipeline is for:  
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When AWS S3 has new files, would trigger Lambda to read and copy it to another S3 bucket 
@@ -17,15 +17,15 @@ This pipeline is for:
 
 ## Setup:
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  setup IAM role with AWS S3 full access policy and AWS LambdabasicExecutionCloudWatchRole
+* ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  setup IAM role with AWS S3 full access policy and AWS LambdabasicExecutionCloudWatchRole
     
     
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Log in with IAM role
+* ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Log in with IAM role
     
 ## Step one: 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Setup Lambda named s3LambdaFunc02 with permission of AWS S3 ReadOnly access
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Set runtimes as Python 3.8
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Copy and paste AWS S3 upload trigger lambda.py to code area
+* ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Setup Lambda named s3LambdaFunc02 with permission of AWS S3 ReadOnly access
+* ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Set runtimes as Python 3.8
+* ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Copy and paste AWS S3 upload trigger lambda.py to code area
      
 
 ##### When S3 bucket has new files coming in, send event notification

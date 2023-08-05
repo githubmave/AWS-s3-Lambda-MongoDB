@@ -2,7 +2,7 @@
 ## Purpose:
 + ##### &nbsp;&nbsp;&nbsp;&nbsp;  The following is:  &nbsp;&nbsp;&nbsp;&nbsp;  Map for this cloud-base ETL Pipeline architect
   ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  
-+ #####  &nbsp;&nbsp;&nbsp;&nbsp;  
+
 This pipeline is for:  
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When AWS S3 has new files, would trigger Lambda to read and copy it to another S3 bucket 
 

@@ -43,7 +43,7 @@
 
 ## Go to S3 bucket 
 ![image](https://github.com/githubmave/PipeLine-AWS-s3-Upload-Trigger-Lambda/assets/8073738/37608376-e9f4-446b-b9ec-55922cc7a77a)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Solution Architect
 ![image](https://github.com/githubmave/PipeLine-AWS-s3-Upload-Trigger-Lambda/assets/8073738/217828cf-b6a7-4725-8dff-a311a5e1f7a3)

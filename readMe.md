@@ -1,6 +1,6 @@
 
 ## Purpose:
-+ ##### &nbsp;&nbsp;&nbsp;&nbsp;  The following is:  &nbsp;&nbsp;&nbsp;&nbsp;  Map for this cloud-base ETL Pipeline architect
++ ##### &nbsp;&nbsp;&nbsp;&nbsp;  The following is:  &nbsp;&nbsp;&nbsp;&nbsp;  Map for this AWS-base ETL Pipeline architect
   #####
 
 This pipeline is for:  
